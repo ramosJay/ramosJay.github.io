@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img class="86e.png">
+<img class="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fhey-ive-seen-this-one&psig=AOvVaw2qN9s3g-150CoKDXrU3tOp&ust=1630653837461000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjny_zi3_ICFQAAAAAdAAAAABAD">
 
 ## Same-Same, but Different
 
