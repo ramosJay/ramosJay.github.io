@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
+title: Like visiting a new, yet familiar, Place
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2021-09-01
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Reflection
+  - Javascript
 ---
 
 <img class="ui medium left floated image" src="../images/rtfm.png">
