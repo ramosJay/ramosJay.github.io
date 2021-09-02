@@ -26,3 +26,4 @@ In honesty, athletic software engineering like the WODs are definitely stress in
 ## Practice Makes Perfect
 
 In retrospect, I see Javascript as another versatile skill in the software engineer’s arsonal. But it takes time and practice to learn a new coding language. It also depends how often you use it on a daily basis, like a forign speaking language, you tend to forget the more you don’t use it. What really helped me was the ability of using sites like freecodecamp and other free online sources to hone my skill as a software engineer. Having the ability to redo the entire basics and ES6 over again, is a big help, especially wanting Javascript to become second nature.
+
