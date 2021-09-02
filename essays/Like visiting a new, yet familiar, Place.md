@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="86e.png">
 
 ## Is there such thing as a stupid question?
 
