@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Vast Field of Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-09
+date: 2021-09-02
 labels:
   - Software Engineering, Learning
 ---
