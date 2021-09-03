@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: Screenshot (4).png
 title: Micromouse
-permalink: projects/micromouse
+permalink: projects/Final Souls Dark Fantasy
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-05-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Video Game
+  - Group Project
+summary: My team developed a rpg video game for ICS 111.
 ---
 
 <div class="ui small rounded images">
