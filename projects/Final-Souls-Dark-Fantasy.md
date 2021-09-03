@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: Screenshot (4).png
+image: gameTitle.png
 title: Final Souls Dark Fantasy
 permalink: projects/Final Souls Dark Fantasy
 # All dates must be YYYY-MM-DD format!
