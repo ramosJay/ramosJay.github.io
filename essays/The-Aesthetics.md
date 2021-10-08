@@ -5,7 +5,12 @@ title: The Aesthetics
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-07
 labels:
-  - Software Engineering, Learning, HTML, CSS, Semantic UI, Refection
+  - Software Engineering
+  - Learning, 
+  - HTML, 
+  - CSS, 
+  - Semantic UI, 
+  - Reflection
 ---
 
 # The Design Process
