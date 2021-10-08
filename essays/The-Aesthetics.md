@@ -6,10 +6,10 @@ title: The Aesthetics
 date: 2021-10-07
 labels:
   - Software Engineering
-  - Learning, 
-  - HTML, 
-  - CSS, 
-  - Semantic UI, 
+  - Learning
+  - HTML
+  - CSS
+  - Semantic UI
   - Reflection
 ---
 
