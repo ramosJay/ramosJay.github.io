@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Jay Ramos",
         "url": "https://www.linkedin.com/in/jay-ramos-4711b7212/"
       }
     ]
@@ -42,6 +42,11 @@
       "name": "Security",
       "keywords": [
       ]
+    },
+    {
+      "name": "Website Development",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -52,16 +57,18 @@
         "C++",
         "Java",
         "Javascript",
-        "Alice"
+        "Alice",
+        "Github"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
+        "Microsoft Windows",
         "Git/GitHub",
-        "SketchUp"
+        "SketchUp",
+        "IntelliJ"
       ]
     }
   ],
